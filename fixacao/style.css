@@ -36,3 +36,28 @@
     padding: 20px;
     text-align: center;
   }
+
+  .nav{
+    position: sticky;
+    text-align: center;
+    top: 0;
+  }
+
+  .sec1{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+  }
+
+  .sec2{
+    text-align: center;
+  }
+
+  .sec3:active{
+    background-color: greenyellow;
+  }
+
+  .footer:hover{
+    background-color: yellow;
+  }
+
